@@ -34,16 +34,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-![Rehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErRehanAnsari1&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ErRehanAnsari1&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRehanAnsari1&layout=compact&theme=tokyonight)
-
-
----
 
 ### 🧠 Inspiration I Carry Forward
 
